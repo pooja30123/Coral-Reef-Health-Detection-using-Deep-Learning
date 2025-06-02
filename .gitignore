@@ -1,0 +1,80 @@
+#files
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variable files
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask & static uploads
+instance/
+uploads/
+*.log
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data & model artifacts
+*.h5
+*.pkl
+*.zip
+*.npy
+*.npz
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
